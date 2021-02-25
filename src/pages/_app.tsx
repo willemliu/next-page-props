@@ -1,6 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
-import { Menu } from './components/menu/Menu';
+import { Menu } from '../components/menu/Menu';
 
 function App({ Component, pageProps }) {
     return (
